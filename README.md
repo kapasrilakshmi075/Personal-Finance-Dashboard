@@ -23,4 +23,4 @@ An interactive Personal Finance Dashboard built in Microsoft Excel.
 - Slicers
 
 ## Dashboard Preview
-(Upload dashboard screenshot here)
+![Dashboard](Dashboard.png)
